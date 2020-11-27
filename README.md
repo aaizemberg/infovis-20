@@ -7,7 +7,6 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 https://github.com/guillemollar/infovis/blob/gh-pages/index.html
 
 ##
-
-https://public.tableau.com/profile/guillermo.mollar#!/
-
-https://public.tableau.com/views/Libro1_16057265389220/Dashboard2?:language=es&:display_count=y&publish=yes&:origin=viz_share_link
+* [tableau public profile de Guillermo Mollar](https://public.tableau.com/profile/guillermo.mollar#!/)
+* [w44 - tableau](https://guillemollar.github.io/infovis/mom_w44.html)
+* [w46 - tableau](https://guillemollar.github.io/infovis/mom_w46.html)
